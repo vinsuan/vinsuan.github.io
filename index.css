@@ -1,0 +1,77 @@
+body{
+	width:960px;
+	margin:0 auto;
+	background-color: #DFDFDF;
+	font-size:14px;
+	}
+
+
+h1{
+	font-size:50px;
+        text-align:center; 
+        font-family: "楷体";
+        color: #F60;
+}
+h2{
+	font-size:25px;
+	background:#eee;
+	height:25px;
+	line-height:25px;
+	text-indent:10px;
+        font-family:"楷体";
+	color: red;
+}
+
+#useful{  width:960px;overflow:hidden; }
+#useful li{
+     width:120px;
+     float:left;
+    margin:5px 10px 0 50px;
+    
+}
+#useful li a {
+	font-size: 24px;
+	font-family: "宋体";
+        line-height:45px;
+        text-decoration:none;
+}
+#useful li a:hover{
+	color:#F00;
+	text-decoration:underline;
+}
+
+#play{width:960px;overflow:hidden; }
+
+#play ol {     
+      font-size: 24px;
+      margin:30px 10px 0 100px; 
+}
+#play li{
+      width:400px;
+      float:left;
+}
+#play li a {
+	font-size: 24px;
+	font-family: "宋体";
+        line-height:35px;
+        text-decoration:none;
+}
+#play p span{
+color:red;
+}
+#play p a{
+   text-decoration:none;
+}
+
+#play h3 a{
+    font-size:20px;
+    color:#030;
+}
+
+
+
+
+
+
+
+
